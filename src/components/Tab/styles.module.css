@@ -1,0 +1,11 @@
+.root {
+  text-decoration: none;
+  padding: 4px 8px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color: black;
+}
+
+.active {
+  background-color: grey;
+}

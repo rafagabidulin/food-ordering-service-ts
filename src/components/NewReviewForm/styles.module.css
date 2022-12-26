@@ -1,0 +1,13 @@
+.root {
+  display: flex;
+  flex-direction: column;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+.section:not(:last-child) {
+  margin-bottom: 16px;
+}

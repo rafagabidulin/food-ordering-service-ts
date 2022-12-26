@@ -1,0 +1,16 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 48px;
+  width: 100%;
+  background-color: rgba(20, 20, 20, 0.95);
+}
+
+.logo {
+  width: 115px;
+  height: 18px;
+  background-image: url('./img/logo.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}

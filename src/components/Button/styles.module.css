@@ -1,0 +1,21 @@
+.root {
+  border-radius: 4px;
+}
+
+.s {
+  font-size: 12px;
+  padding: 4px 8px;
+}
+
+.m {
+  font-size: 15px;
+  padding: 6px 12px;
+}
+
+.primary {
+  border: 1px solid black;
+}
+
+.secondary {
+  border: 1px solid grey;
+}
